@@ -1,0 +1,96 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+.all{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+
+.im-1 img{
+    height: 200px;
+    width: 900px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.im-2 img{
+    height: 200px;
+    width: 900px;
+    margin-top: 50px;
+}
+.im-3 img{
+    height: 200px;
+    width: 900px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+
+.im-1 input{
+    font-size: 25px;
+    height: 50px;
+    width: 350px;
+    border-radius: 40em;
+    background:blue;
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border:none;
+    transition: 0.9s;
+}
+
+.im-1 input:hover{
+    transform: scale(1.1)
+    }
+.im-2 input{
+    font-size: 25px;
+    height: 50px;
+    width: 350px;
+    border-radius: 40em;
+    background:blue;
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border:none;
+    transition: 0.9s;
+}
+
+.im-2 input:hover{
+    transform: scale(1.1)
+    }
+.im-3 input{
+    font-size: 25px;
+    height: 50px;
+    width: 350px;
+    border-radius: 40em;
+    background:blue;
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border:none;
+    transition: 0.9s;
+}
+
+.im-3 input:hover{
+    transform: scale(1.1)
+}
+
+
+    .se input{
+    height: 50px;
+    width:1000px ;
+    border-radius: 4em;
+    padding: 20px;
+    border-bottom: 1px solid rgb(39, 39, 39);
+    border-top: 1px solidrgb(39, 39, 39) ;
+    border-left: 1px solid rgb(39, 39, 39) ;
+    border-right: 1px solid rgb(39, 39, 39) ;
+    font-size: 20px;
+    }
+
+    .se{
+        margin-left: 150px;
+    }
